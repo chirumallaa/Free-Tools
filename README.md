@@ -1,7 +1,11 @@
 # Free-Tools
 Curated list of free to use tools.
-Project Management
-Slack - team communication (WhatsApp for businesses)
+
+
+## Project Management
+
+1. Slack - team communication (WhatsApp for businesses)
+
 2. Trello - digital Kanban board to manage projects
 
 3. Asana - project management tool

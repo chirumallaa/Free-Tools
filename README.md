@@ -22,7 +22,8 @@ Curated list of free to use tools.
 
 
 
-Productivity
+## Productivity
+
 9. Station - arrange your apps properly on your desktop
 
 10. Todoist - manage to do's
@@ -37,7 +38,8 @@ Productivity
 
 
 
-Landingpages
+## Landingpages
+
 15. Instapage - create landingpages for A/B tests in minutes
 
 16. Thrive - conversion focused word press themes
@@ -54,7 +56,8 @@ Landingpages
 
 
 
-Language
+## Language
+
 22. Grammarly - writing assistant
 
 23. DeepL - best free translator (whole sentences)
@@ -63,7 +66,8 @@ Language
 
 
 
-Links
+## Links
+
 25. Rebrandly - URL shortener and branded link management
 
 26. bit.ly - URL shortener and branded link management
@@ -72,21 +76,24 @@ Links
 
 
 
-Analyze Websites
+## Analyze Websites
+
 28. Alexa - Ranking of websites
 
 29. Similar Web - website traffic statistics
 
 
 
-Automation
+## Automation
+
 30. Phantombuster - cloud APIs to boost your marketing
 
 31. Zapier - workflow automation without coding
 
 
 
-Sales Emails
+## Sales Emails
+
 32. GMass - send and schedule mass emails
 
 33. Mailshake - cold email tool
@@ -95,7 +102,8 @@ Sales Emails
 
 
 
-Email Campaigns
+## Email Campaigns
+
 35. ConvertKit - managing your email marketing
 
 36. MailChimp - email marketing such as newsletters
@@ -108,14 +116,16 @@ Email Campaigns
 
 
 
-Email Spam Checker
+## Email Spam Checker
+
 40. G-Lock Apps - checks if your emails goes to the spam folder
 
 41. Mail Tester - checks if your emails goes to the spam folder
 
 
 
-Generating leads
+## Generating leads
+
 42. Toofr - find, verify and buy emails
 
 43. Hunter - find email addresses in seconds
@@ -130,7 +140,8 @@ Generating leads
 
 
 
-Screenshots
+## Screenshots
+
 48. Lightshot - fast way to take customizeable screenshots
 
 49. Nimbus Screenshot - fast way to take customizeable screenshots
@@ -139,7 +150,8 @@ Screenshots
 
 
 
-Keeping Passwords Secure
+## Keeping Passwords Secure
+
 51. Lastpass - password and form-filling manager
 
 52. 1password - password manager
@@ -148,7 +160,8 @@ Keeping Passwords Secure
 
 
 
-Wireframes/Prototypes
+## Wireframes/Prototypes
+
 54. Balsamiq - easy-to-use prototyping software
 
 55. Figma - easy-to-use prototyping software
@@ -161,14 +174,16 @@ Wireframes/Prototypes
 
 
 
-Chatbot Automation
+## Chatbot Automation
+
 59. Chatfuel - create AI chatbots for facebook
 
 60. ManyChat - create AI chatbots for facebook
 
 
 
-Scraping
+## Scraping
+
 61. Scrapebox - harvest links, automate blog comments etc.
 
 62. Webscraper.io - chrome extension to extract data from websites
@@ -177,7 +192,8 @@ Scraping
 
 
 
-Customer Onboarding/Support
+## Customer Onboarding/Support
+
 64. Drift - conversational marketing platform
 
 65. Intercom - customer messaging platform
@@ -186,7 +202,8 @@ Customer Onboarding/Support
 
 
 
-Design
+## Design
+
 67. Tailorbrands - design a logo
 
 68. Coolors.co - super fast color schemes generator
@@ -205,7 +222,8 @@ Design
 
 
 
-CRM
+## CRM
+
 75. PropellerCRM - CRM
 
 76. Pipedrive - CRM
@@ -216,7 +234,8 @@ CRM
 
 
 
-Finance
+## Finance
+
 79. Finanzguru - finance manager
 
 80. Outbank - managing multiple financial accounts
@@ -225,7 +244,8 @@ Finance
 
 
 
-Videos
+## Videos
+
 82. Scenes - SAP's solution to create video stories
 
 83. Zoom - video conferencing tool
@@ -248,21 +268,24 @@ Videos
 
 
 
-Knowledge Management
+## Knowledge Management
+
 92. Github - community of developers to share software
 
 93. Confluence - enterprise wiki
 
 
 
-SEM
+## SEM
+
 94. PageRangers - SEO tool box
 
 95. Supermetrics - marketing add-on for Google Sheets
 
 
 
-Other
+## Other
+
 96. Camcard - business card reader
 
 97. Pocket - managing articles and links to read later across platforms
@@ -273,3 +296,9 @@ Other
 
 100. smallpdf - compress and combine PDFs
 
+
+
+
+
+
+# Thank you
